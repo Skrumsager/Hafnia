@@ -1,2 +1,2 @@
 # Hafnia
-Test projekt for at teste Continuous Delivey
+Test project to test Continuous Delivey and GitHub
